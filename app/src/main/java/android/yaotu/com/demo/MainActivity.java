@@ -36,5 +36,7 @@ public class MainActivity extends CheckPermissionsActivity {
                 viewSwitcher.showNext();
             }
         });
+        //测试，添加新内容
+        buttonNext.setText("asdfsf");
     }
 }
