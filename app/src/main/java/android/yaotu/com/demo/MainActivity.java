@@ -36,7 +36,7 @@ public class MainActivity extends CheckPermissionsActivity {
                 viewSwitcher.showNext();
             }
         });
-        //测试，添加新内容
+        //测试，添加新内容短发散发岁的法
         buttonNext.setText("asdfsf");
     }
 }
